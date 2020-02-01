@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contactlist-telegram-DZ.git/static/css/main.f788fea8.chunk.css",
+    "main.js": "/contactlist-telegram-DZ.git/static/js/main.65ec9b7a.chunk.js",
+    "main.js.map": "/contactlist-telegram-DZ.git/static/js/main.65ec9b7a.chunk.js.map",
+    "runtime-main.js": "/contactlist-telegram-DZ.git/static/js/runtime-main.64542313.js",
+    "runtime-main.js.map": "/contactlist-telegram-DZ.git/static/js/runtime-main.64542313.js.map",
+    "static/js/2.c550c527.chunk.js": "/contactlist-telegram-DZ.git/static/js/2.c550c527.chunk.js",
+    "static/js/2.c550c527.chunk.js.map": "/contactlist-telegram-DZ.git/static/js/2.c550c527.chunk.js.map",
+    "index.html": "/contactlist-telegram-DZ.git/index.html",
+    "precache-manifest.df91e15edec61932e51aedf292f2f8f2.js": "/contactlist-telegram-DZ.git/precache-manifest.df91e15edec61932e51aedf292f2f8f2.js",
+    "service-worker.js": "/contactlist-telegram-DZ.git/service-worker.js",
+    "static/css/main.f788fea8.chunk.css.map": "/contactlist-telegram-DZ.git/static/css/main.f788fea8.chunk.css.map",
+    "static/js/2.c550c527.chunk.js.LICENSE": "/contactlist-telegram-DZ.git/static/js/2.c550c527.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64542313.js",
+    "static/js/2.c550c527.chunk.js",
+    "static/css/main.f788fea8.chunk.css",
+    "static/js/main.65ec9b7a.chunk.js"
+  ]
+}
