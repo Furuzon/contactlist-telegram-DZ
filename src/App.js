@@ -29,6 +29,7 @@ function App() {
                     if (filter === 'filter50') {
                         return o.price > 59;
                     }
+                    return o;
                 })
                 .map((product, index) => {
                     return (
