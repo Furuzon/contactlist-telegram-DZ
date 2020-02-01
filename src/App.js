@@ -9,10 +9,10 @@ function App() {
         { price: 500, limit: 40, minute: 500, sms: 50 },
         { price: 400, limit: 15, minute: 500, sms: 15 },
         { price: 700, limit: 30, minute: 800, sms: 30 },
-        { price: 200, limit: 2, minute: 200, sms: 60, },
+        { price: 200, limit: 2, minute: 200, sms: 60 },
         { price: 300, limit: 15, minute: 500, sms: 50 },
         { price: 100, limit: 40, minute: 500, sms: 50 },
-        { price: 7, limit: 30, minute: 502, sms: 50 },
+        { price: 7, limit: 30, minute: 502, sms: 50 }
     ]
 
     const handleToggleFilterByPrice = () => {
@@ -27,7 +27,7 @@ function App() {
                         return o;
                     }
                     if (filter === 'filter50') {
-                        return o.price > 500;
+                        return o.price > 59;
                     }
                 })
                 .map((product, index) => {
@@ -45,4 +45,4 @@ function App() {
     )
 }
 
-export default App
+export default App;
